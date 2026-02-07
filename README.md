@@ -1,4 +1,4 @@
-# E-Store iOS App
+# E-Store iOS App - UIKit Storyboard
 
 E-Store is an iOS e-commerce application built using **UIKit (Storyboard)** that allows users to browse product categories, view products, authenticate using JWT, and manage product-related actions.  
 The app implements **VIPER architecture** to ensure clean separation of concerns and scalable code structure.
